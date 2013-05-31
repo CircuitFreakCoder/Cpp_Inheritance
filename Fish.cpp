@@ -53,7 +53,7 @@ int main()
 /*
 
 Getting my food to swim
-Lunch: Swim in lake
-Dinner: Swim in sea
+Lunch: Swims in lake
+Dinner: Swims in sea
 
 */
